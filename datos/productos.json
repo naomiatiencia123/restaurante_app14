@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "nombre": "Hamburguesa Especial",
+        "precio": 6.5,
+        "categoria": "Comida"
+    }
+]
